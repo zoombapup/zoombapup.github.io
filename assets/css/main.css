@@ -2998,7 +2998,7 @@ input, select, textarea {
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 25em;
+			width: 0.4em;
 		}
 
 			.spotlights > section > .image img {
@@ -3036,7 +3036,7 @@ input, select, textarea {
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 50em;
+			width: 99.6em;
 			-ms-flex: 1;
 		}
 
@@ -3069,7 +3069,7 @@ input, select, textarea {
 			-webkit-transform: translateX(-1em);
 			-ms-transform: translateX(-1em);
 			transform: translateX(-1em);
-			opacity: 0;
+			opacity: 0.3;
 		}
 
 		@media screen and (max-width: 1680px) {
