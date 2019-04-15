@@ -3038,6 +3038,7 @@ input, select, textarea {
 			justify-content: center;
 			width: 99.6em;
 			-ms-flex: 1;
+			flex: 1;
 		}
 
 			.spotlights > section > .content > .inner {
